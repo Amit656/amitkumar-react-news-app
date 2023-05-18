@@ -2,6 +2,8 @@
 
 - Go to project directory and run below command
 
+- Fill api end point and api keys
+
 - docker build -t reactdockerapp:dev
 
 - docker run -it -p 3000:3000 reactdockerapp:dev
